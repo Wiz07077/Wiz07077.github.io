@@ -1,19 +1,24 @@
-# Wiz07077.github.io# Personal Academic Homepage
+# Personal Academic Homepage
 
 This repository contains the source files for the personal academic
 homepage of Meichen Jiang.
 
 ## About
 
-I am an incoming graduate student at Chongqing University, starting
-in September 2026. I received my bachelor's degree from the School of
-Big Data and Software Engineering at Chongqing University in 2026.
+I am an M.S. student in the School of Big Data and Software
+Engineering at Chongqing University, starting in September 2026. I
+completed my undergraduate studies at the same school in 2026.
 
 My current research interest is time-series anomaly detection.
 
-## Website
+## Education
 
-The homepage is available at:
+- M.S. Student, School of Big Data and Software Engineering,
+  Chongqing University, 2026–2029
+- Undergraduate Student, School of Big Data and Software Engineering,
+  Chongqing University, 2022–2026
+
+## Website
 
 https://wiz07077.github.io/
 
